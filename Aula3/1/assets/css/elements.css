@@ -10,6 +10,7 @@ html{
 .responsive-table {
     overflow: hidden;
     overflow-x: auto;
+    padding: 5rem;
 }
 
 body{
