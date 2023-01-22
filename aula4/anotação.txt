@@ -1,3 +1,10 @@
+ATALHOS
 init html -> digitar ! e dar um TAB
 selecionar linha inteira ->ctrl + l
 selecionar paralelo -> bolinha do mouse
+
+
+JS:
+variavel
+let 
+var  
